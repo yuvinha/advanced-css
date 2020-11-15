@@ -1,6 +1,8 @@
 # Advanced CSS and Sass
 Course projects for the Jonas Schmedtmann's [Advanced CSS and Sass](https://www.udemy.com/course/advanced-css-and-sass/) course on Udemy
-> Status: Completed (18th Jan 2020)
+
+- Course Info: 126 lectures, 28h 6m videos
+- Progress: Completed (18th Jan 2020)
 
 ## Apps
 > Each project directory contains screenshots/GIFs.
